@@ -21,7 +21,10 @@ OS: [e.g. Ubuntu, Windows, macOS]
 Version: [e.g. 1.0.0, etc.]
 Debug Logs
 Include any debug logs or error messages you encountered. If debug mode wasn’t enabled, please enable it and attach the logs.
+Screenshots
+If applicable, add screenshots to help explain your problem.
 
+Environment and Setup
 Additional context
 Add any other context about the problem here.
 Go to '...'
