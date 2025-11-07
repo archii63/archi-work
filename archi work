@@ -9,11 +9,7 @@ If applicable, add screenshots to help explain your problem.
 Go to '...'
 Click on '....'
 Scroll down to '....'
-See erroroduce
-Steps to reproduce the behavior:
-Screenshots
-If applicable,
-Expected behavior
+Seeior
 A clear and concise description of what you expected to happen.
 
 Screenshots
@@ -35,7 +31,11 @@ Additional context
 Add any other context about the problem here.
 Go to '...'
 Click on '....'
-Scroll down to '....'
+Scroll down to '... erroroduce
+Steps to reproduce the behavior:
+Screenshots
+If applicable,
+Expected behav.'
 See error
 Expected behaviorn Mode: Are you running the bot via Docker or manually?
 OS: [e.g. Ubuntu, Windows, macOS]
